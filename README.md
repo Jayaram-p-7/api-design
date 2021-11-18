@@ -17,7 +17,7 @@ _Internal version published 2016 Mar 10_
     - [Requests](#requests)
         - [URIs/Paths](#urispaths)
             - [Use Plural Resource Names](#use-plural-resource-names)
-            - [Use Nouns, Not Verbs in the Base URI](#use-nouns-not-verbs-in-the-base-uri)
+            - [Use Nouns, Not/Verbs in the Base URI](#use-nouns-not-verbs-in-the-base-uri)
             - [Shorten Associations in the URI - Hide Dependencies in the Parameter List](#shorten-associations-in-the-uri---hide-dependencies-in-the-parameter-list)
         - [Uniform Interface with HTTP Verbs/Methods](#uniform-interface-with-http-verbsmethods)
     - [Resource Identifiers](#resource-identifiers)
